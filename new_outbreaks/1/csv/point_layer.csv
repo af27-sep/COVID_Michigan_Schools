@@ -1,0 +1,45 @@
+qc_id,name,descriptio,timestamp,begin,end,altitudemo,tessellate,extrude,visibility,draworder,icon,county,school_add,city,state,school_gra,#_of_cases,staff__stu,date_added,new_or_ong,latitude,longitude,icon_url
+"5",Munger,,,,,,"-1","0","-1",,,Wayne,5525 Martin Street,Detroit,michigan,Administrative,"5",Staff,11/9/2020,new,42.337259,-83.132785,./0.png
+"0",Rapid River Schools,,,,,,"-1","0","-1",,,Delta,10070 Hwy US2,Rapid River,michigan,High school,"3",Students,11/9/2020,new,45.897656,-86.865475,./0.png
+"1",Frankenmuth High School,,,,,,"-1","0","-1",,,Saginaw,525 E. Genesee,Frankenmuth,michigan,High school,"3",Staff,11/9/2020,new,43.335665,-83.733224,./0.png
+"2",Fox Elementary,,,,,,"-1","0","-1",,,Macomb,17500 Millstone Dr,Macomb,michigan,Pre-school - elementary,"2",Both,11/9/2020,new,42.634105,-82.947252,./0.png
+"3",Northern Michigan Christian School,,,,,,"-1","0","-1",,,Misaukee,128 Martin St,McBain,michigan,Administrative,"4",Both,11/9/2020,new,44.190856,-85.217054,./0.png
+"4",Dewitt Public Schools - Schavey Rd Elem,,,,,,"-1","0","-1",,,Clinton,1721 Schavey Rd,Dewitt,michigan,Pre-school - elementary,"2",Both,11/9/2020,new,42.826239,-84.588584,./0.png
+"6",Coldwater School,,,,,,"-1","0","-1",,,Branch,275 N. Fremont St,Coldwater,michigan,Administrative,"8",Staff,11/9/2020,new,41.948757,-85.010494,./0.png
+"7",Coldwater High School,,,,,,"-1","0","-1",,,Branch,275 N Fremont,Coldwater,michigan,High school,"2",Students,11/9/2020,new,41.948757,-85.010494,./0.png
+"8",Davidson Middle School,,,,,,"-1","0","-1",,,Wayne,15800 Trenton Rd,Southgate,michigan,Junior high/middle school,"3",Staff,11/9/2020,new,42.192776,-83.194773,./0.png
+"9",Mather Elementary School,,,,,,"-1","0","-1",,,Alger,411 Elm Street,Munising,michigan,Pre-school - elementary,"3",Both,11/9/2020,new,46.408245,-86.657613,./0.png
+"10",West Ottawa High School,,,,,,"-1","0","-1",,,Ottawa,3685 Butternut Dr,Holland,michigan,High school,"2",Students,11/9/2020,new,42.834658,-86.150179,./0.png
+"11",McFall Elementary,,,,,,"-1","0","-1",,,Barry,509 W Main St,Middleville,michigan,Pre-school - elementary,"2",Students,11/9/2020,new,42.710866,-85.472362,./0.png
+"12",Weston Elementary School,,,,,,"-1","0","-1",,,Lapeer, 275 Weston St,Imlay City,michigan,Pre-school - elementary,"3",Staff,11/9/2020,new,43.020238,-83.080572,./0.png
+"13",Messiah Child Development Center,,,,,,"-1","0","-1",,,Ingham,5740 Holt Rd,Holt,michigan,Pre-school - elementary,"3",Students,11/9/2020,new,42.640447,-84.570265,./0.png
+"14",Centreville School,,,,,,"-1","0","-1",,,St. Joseph,109 Hogan St,Centreville,michigan,Pre-school - elementary,"2",Students,11/9/2020,new,41.918762,-85.526585,./0.png
+"15",Union City High School,,,,,,"-1","0","-1",,,Branch,430 St Joseph St,Union city,michigan,High school,"5",Both,11/9/2020,new,42.025271,-85.078799,./0.png
+"16",Cedar Springs High School,,,,,,"-1","0","-1",,,Kent,204 E Muskegon St,Cedar Springs,michigan,High school,"7",Both,11/9/2020,new,43.21687,-85.546256,./0.png
+"17",Childtime Learning Center,,,,,,"-1","0","-1",,,Ingham,920 Jerome,Lansing,michigan,Pre-school - elementary,"3",Staff,11/9/2020,new,42.734584,-84.539251,./0.png
+"18",Warren Woods Middle School,,,,,,"-1","0","-1",,,Macomb,13400 Twelve Mile Rd,Warren,michigan,Junior high/middle school,"3",Staff,11/9/2020,new,42.506412,-82.99048,./0.png
+"19",Cesar E Chavez Elementary,,,,,,"-1","0","-1",,,Kent,1205 Grandville Ave SW,Grand Rapids,michigan,Pre-school - elementary,"3",Staff,11/9/2020,new,42.941413,-85.683445,./0.png
+"20",Weiss Elementary,,,,,,"-1","0","-1",,,Saginaw,4645 Weiss Street,Saginaw,michigan,Pre-school - elementary,"8",Both,11/9/2020,new,43.443814,-84.00709,./0.png
+"21",Breton Downs Elementary,,,,,,"-1","0","-1",,,Kent,2500 Boston St SE,Grand Rapids,michigan,Pre-school - elementary,"4",Both,11/9/2020,new,42.93398,-85.60752,./0.png
+"22",Livingston Classical Academy,,,,,,"-1","0","-1",,,Washtenaw,8877 Main St ,Whitmore Lake,michigan,Pre-school - elementary,"2",Students,11/9/2020,new,42.414025,-83.762628,./0.png
+"23",St. Anselm Elementary School,,,,,,"-1","0","-1",,,Wayne,17700 W. Outer Dr,Dearborn Heights,michigan,Pre-school - elementary,"3",Both,11/9/2020,new,42.329287,-83.261666,./0.png
+"24",Brookside Elementary,,,,,,"-1","0","-1",,,Mecosta,210 Escott St,Big Rapids,michigan,Administrative,"3",Staff,11/9/2020,new,43.695742,-85.491214,./0.png
+"25",Bridgman Elementary,,,,,,"-1","0","-1",,,Berrien,3891 Lake Street,Brdgman,michigan,Pre-school - elementary,"4",Both,11/9/2020,new,41.943032,-86.546424,./0.png
+"26",Jerolene School,,,,,,"-1","0","-1",,,St. Joseph,303 E Jerolene ,Sturgis,michigan,Pre-school - elementary,"4",Staff,11/9/2020,new,41.808526,-85.414964,./0.png
+"27",Bullock Creek Elementary,,,,,,"-1","0","-1",,,Midland,1037 S Poseyville Rd,Midland,michigan,Pre-school - elementary,"2",Both,11/9/2020,new,43.582112,-84.247149,./0.png
+"28",Barryton Elementary,,,,,,"-1","0","-1",,,Mecosta,19701 30th Ave.,Barryton,michigan,Pre-school - elementary,"3",Both,11/9/2020,new,43.751514,-85.147685,./0.png
+"29",Kenowa Hills High School,,,,,,"-1","0","-1",,,Kent,3825 Hendershot Ave NW,Grand Rapids,michigan,High school,"6",Students,11/9/2020,new,43.032853,-85.749839,./0.png
+"30",Bloomfield Christian Upper School ,,,,,,"-1","0","-1",,,Oakland,3570 Telegraph Rd. ,Bloomfield Hills,michigan,High school,"2",Both,11/9/2020,new,42.586915,-83.283061,./0.png
+"31",Siebert Elementary,,,,,,"-1","0","-1",,,Midland,5700 Siebert,Midland,michigan,Pre-school - elementary,"4",Both,11/9/2020,new,43.649784,-84.239342,./0.png
+"32",Shelby High School,,,,,,"-1","0","-1",,,Oceana,641 N State St.,Shelby,michigan,High school,"3",Both,11/9/2020,new,43.598173,-86.370941,./0.png
+"33",Blossomland,,,,,,"-1","0","-1",,,Berrien,711 Saint Joseph,Berrien Springs,michigan,High school,"2",Students,11/9/2020,new,41.951684,-86.347696,./0.png
+"34",Imlay City High School,,,,,,"-1","0","-1",,,Lapeer,1001 Norlin Dr,Imlay City,michigan,High school,"4",Both,11/9/2020,new,43.065642,-83.060893,./0.png
+"35",Baraga Area Schools,,,,,,"-1","0","-1",,,Baraga,210 Lyons Street,Baraga,michigan,Pre-school - elementary,"10",Both,11/9/2020,new,46.777295,-88.493072,./0.png
+"36",Harbor Beach Community Schools,,,,,,"-1","0","-1",,,Huron,402 S fifth st,Harbor Beach,michigan,High school,"4",Both,11/9/2020,new,43.840015,-82.657437,./0.png
+"37",Harbor Springs High School,,,,,,"-1","0","-1",,,Emmet,500 N Spring St,Harbor Springs,michigan,High school,"3",Students,11/9/2020,new,45.432752,-84.988165,./0.png
+"38",Fraser High School,,,,,,"-1","0","-1",,,Macomb,34270 Garfield Rd,Fraser,michigan,High school,"2",Staff,11/9/2020,new,42.551722,-82.947229,./0.png
+"39",Henry Ford II High School,,,,,,"-1","0","-1",,,Macomb,11911 Clinton River Rd,Sterling Heights,michigan,High school,"2",Both,11/9/2020,new,42.605453,-83.012449,./0.png
+"40",Gabriel Richard Catholic High School,,,,,,"-1","0","-1",,,Wayne,15325 Pennsylvania Rd,Riverview,michigan,High school,"2",Students,11/9/2020,new,42.183167,-83.209425,./0.png
+"41",Parkview,,,,,,"-1","0","-1",,,Eaton,301 E Kalamo Hwy,Charlotte,michigan,Junior high/middle school,"2",Both,11/9/2020,new,42.538729,-84.831024,./0.png
+"42",Owosso High School,,,,,,"-1","0","-1",,,Shiawassee,765 E. North St.,Owosso,michigan,High school,"10",Students,11/9/2020,new,43.012362,-84.160479,./0.png
+"43",Grand Haven High School,,,,,,"-1","0","-1",,,Ottawa,17001 Ferris St,Grand Haven,michigan,High school,"3",Students,11/9/2020,new,43.011827,-86.211124,./0.png
